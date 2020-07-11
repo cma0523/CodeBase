@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Threading.Tasks;
 using MassTransit;
 using Microsoft.Extensions.Logging;
 
@@ -16,5 +17,9 @@ namespace NotificationConsumer
         }
 
 
+        public Task Consume(ConsumeContext<INotificationMessage> context)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
