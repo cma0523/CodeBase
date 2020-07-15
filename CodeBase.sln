@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode.Service", "LeetCod
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{E63504BE-8CA0-4145-8684-33352683C2D9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lib1", "Lib1\Lib1.csproj", "{39A850D5-DDAC-4E7B-BE80-2374711BF3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Events", "Lib1\Events.csproj", "{39A850D5-DDAC-4E7B-BE80-2374711BF3BB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainConsole", "MainConsole\MainConsole.csproj", "{C8730357-D23A-4B95-9699-B76CF9A776D6}"
 EndProject
@@ -87,7 +87,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderAPI", "OrderAPI\OrderA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWithIdentity", "BlazorWithIdentity\BlazorWithIdentity.csproj", "{D9ED3B1C-BCA0-47A9-9014-3560A71E149D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatewayAPI", "GatewayAPI\GatewayAPI.csproj", "{AFD44E45-DFEA-4C9A-A8E2-80C4F95D382B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GatewayAPI", "GatewayAPI\GatewayAPI.csproj", "{AFD44E45-DFEA-4C9A-A8E2-80C4F95D382B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
